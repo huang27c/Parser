@@ -14,9 +14,14 @@ Clone the project
 
 ## Running 
 
-For example: a graph with two nodes and a directed edge
+For example: a graph with two nodes and a directed edge saved as test.graphml
 
 ![Exaple of two nodes](https://ibb.co/4gyvTf0)
+
+Run command
+```
+python parser.py "test.graphml"
+```
 
 
 ## Built With
