@@ -16,9 +16,7 @@ Clone the project
 
 For example: a graph with two nodes and a directed edge saved as test.graphml
 
-![Exaple of two nodes](https://ibb.co/4gyvTf0)
-
-<img src="https://ibb.co/4gyvTf0">
+<img width="174" alt="Screen Shot 2019-11-04 at 2 44 01 PM" src="https://user-images.githubusercontent.com/27383828/68154151-e0f39780-ff14-11e9-8bcd-0fb3137c78fb.png">
 
 Run command
 ```
