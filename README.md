@@ -1,14 +1,12 @@
 # Parser
 
-This is a graphml file parser. 
+This is a graphml file parser. The parser takes in a graphmil file with directed graph and stores information about nodes and edges in seperate csv files, including a 2d matrix representation.  
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* [yEd Graph Editor](https://www.yworks.com/products/yed#yed-support-resources) - The graph editor 
 
 ```
 Give examples
